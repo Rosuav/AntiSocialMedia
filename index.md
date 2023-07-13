@@ -3,6 +3,9 @@ Anti-Social Media
 
 I would say "welcome to Anti-Social Media" but that would miss the point.
 
+Features
+--------
+
 Check out our huge list of features:
 
 * Create posts about what you do! They won't be shown to anybody.
@@ -11,6 +14,9 @@ Check out our huge list of features:
   there won't ever be any.
 * Like, comment, subscribe, follow, endorse, star, and reanti your friends'
   posts! Those you can see, anyhow.
+
+Sign up?
+--------
 
 Signups are by invitation only. If you want to join Anti-Social Media, find a
 friend who has an account and ask for an invitation. In order to preserve the
